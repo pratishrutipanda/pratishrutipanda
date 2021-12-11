@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @pratishrutipanda
-- 👀 I’m interested in science,science communication, yoga and badminton.
-- 🌱 I’m currently learning molecular mechanics.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pratishruti2002@gmail.com
 
 <!---
